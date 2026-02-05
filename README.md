@@ -3,7 +3,7 @@
 🎓 Systems Analysis & Development (ADS)  
 🌐 I build web projects and automate workflows with Python  
 📍 Tibau do Sul, RN — Brazil  
-📲 WhatsApp: +55 11 99738-5159 (wa.me/5511997385159)
+📲 WhatsApp: +55 11 99738-5159 
 
 ---
 
